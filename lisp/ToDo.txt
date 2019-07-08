@@ -1,0 +1,6 @@
+* patrons ombres
+
+* copy to layer macro
+
+* rotate copy macro
+select objects to rotate, duplicate them and rotate cloned objects
